@@ -20,14 +20,14 @@ puts create_an_empty_array.inspect
 def remove_element_from_end_of_array(array)
   Khan = create_an_empty_array.pop
 end
-puts create_an_empty_array.inspect
+#puts create_an_empty_array.inspect
 puts Khan
 
 
 def remove_element_from_start_of_array(array)
   Hello = create_an_empty_array.shift
 end
-puts create_an_empty_array.inspect
+#puts create_an_empty_array.inspect
 puts Hello
 
 
