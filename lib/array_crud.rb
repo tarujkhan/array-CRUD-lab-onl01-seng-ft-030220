@@ -22,14 +22,14 @@ def remove_element_from_end_of_array(array)
 end
 puts create_an_empty_array.inspect
 puts "Khan"
-end
+
 
 def remove_element_from_start_of_array(array)
   "Hello" = create_an_empty_array.shift
 end
 puts create_an_empty_array.inspect
 puts "Hello"
-end
+
 
 def retrieve_element_from_index(array, index_number)
   array[2]
