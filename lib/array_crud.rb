@@ -9,7 +9,7 @@ end
 def add_element_to_end_of_array(array, element)
   my_array << "Welcome"
 end
-puts add_element_to_start_of_array.inspect
+puts create_an_empty_array.inspect
 
 def add_element_to_start_of_array(array, element)
   my_array.unshift("How are you?")
