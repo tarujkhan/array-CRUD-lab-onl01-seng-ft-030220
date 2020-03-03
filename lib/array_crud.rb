@@ -34,7 +34,9 @@ puts add_element_to_start_of_array.inspect
 def retrieve_first_element_from_array(array)
   my_array[0]
 end
+puts add_element_to_start_of_array.inspect
 
 def retrieve_last_element_from_array(array)
   my_array[-1]
 end
+puts add_element_to_start_of_array.inspect
