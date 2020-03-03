@@ -18,15 +18,16 @@ end
 puts create_an_empty_array.inspect
 
 def remove_element_from_end_of_array(array)
-  Khan = create_an_empty_array.pops
+  "Khan" = create_an_empty_array.pops
 end
 puts create_an_empty_array.inspect
-puts Khan
+puts "Khan"
 
 def remove_element_from_start_of_array(array)
-  
+  "Hello" = create_an_empty_array.shift
 end
 puts create_an_empty_array.inspect
+puts "Hello"
 
 def retrieve_element_from_index(array, index_number)
   array[2]
