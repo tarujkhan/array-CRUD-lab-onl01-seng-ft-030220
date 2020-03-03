@@ -5,22 +5,22 @@ end
 def create_an_array
   array = ["Hello","Taroj", "Ahmed", "Khan"]
 end
-puts create_an_array.inspect
+puts array.inspect
 
 def add_element_to_end_of_array(array, element)
   array << "arrays!"
 end
-puts create_an_array.inspect
+puts array.inspect
 
 def add_element_to_start_of_array(array, element)
-  array.unshift("wow")
+  array.unshift(element)
 end
-puts create_an_array.inspect
+puts array.inspect
 
 def remove_element_from_end_of_array(array)
   array.pop
 end
-puts create_an_array.inspect
+puts array.inspect
 
 
 
