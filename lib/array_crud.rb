@@ -13,7 +13,7 @@ end
 puts create_an_empty_array.inspect
 
 def add_element_to_start_of_array(array, element)
-  array.unshift("How are you?")
+  array.unshift("Wow")
 end
 puts create_an_empty_array.inspect
 
