@@ -25,10 +25,10 @@ puts Khan
 
 
 def remove_element_from_start_of_array(array)
-  "Hello" = create_an_empty_array.shift
+  Hello = create_an_empty_array.shift
 end
 puts create_an_empty_array.inspect
-puts "Hello"
+puts Hello
 
 
 def retrieve_element_from_index(array, index_number)
