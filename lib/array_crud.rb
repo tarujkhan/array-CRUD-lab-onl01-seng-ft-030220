@@ -8,12 +8,12 @@ end
 puts create_an_empty_array.inspect
 
 def add_element_to_end_of_array(array, element)
-  array << "Welcome"
+  array << "arrays"
 end
 puts create_an_empty_array.inspect
 
 def add_element_to_start_of_array(array, element)
-  array.unshift("Wow")
+  array.unshift("wow")
 end
 puts create_an_empty_array.inspect
 
