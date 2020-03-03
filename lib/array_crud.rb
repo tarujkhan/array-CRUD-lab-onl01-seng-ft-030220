@@ -18,7 +18,7 @@ end
 puts create_an_empty_array.inspect
 
 def remove_element_from_end_of_array(array)
-  "Khan" = create_an_empty_array.pops
+  "Khan" = create_an_empty_array.pop
 end
 puts create_an_empty_array.inspect
 puts "Khan"
