@@ -18,17 +18,17 @@ end
 puts create_an_array.inspect
 
 def remove_element_from_end_of_array(array)
-  "Khan" = create_an_array.pop
+  create_an_array.pop("Khan")
 end
 puts create_an_array.inspect
-puts "Khan"
+
 
 
 def remove_element_from_start_of_array(array)
-  "Hello" = create_an_array.shift
+  create_an_array.shift("Hello")
 end
 puts create_an_array.inspect
-puts "Hello"
+
 
 
 def retrieve_element_from_index(array, index_number)
