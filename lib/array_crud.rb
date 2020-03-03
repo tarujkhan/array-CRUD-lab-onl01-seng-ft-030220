@@ -5,6 +5,7 @@ end
 def create_an_array
   my_array = ["Hello","Taroj", "Ahmed", "Khan"]
 end
+puts create_an_empty_array.inspect
 
 def add_element_to_end_of_array(array, element)
   my_array << "Welcome"
