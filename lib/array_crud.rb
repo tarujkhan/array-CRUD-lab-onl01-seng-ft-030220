@@ -8,7 +8,7 @@ end
 puts create_an_empty_array.inspect
 
 def add_element_to_end_of_array(array, element)
-  array << "arrays"
+  array << "arrays!"
 end
 puts create_an_empty_array.inspect
 
